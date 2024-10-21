@@ -1,0 +1,4 @@
+repository "Mega Win Casino - TS@olivier12345678@cloud"
+  path "/"
+    br "/main"
+    co "/main"
