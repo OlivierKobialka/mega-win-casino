@@ -1,0 +1,1021 @@
+fileFormatVersion: 2
+guid: 78edda804fc321d4892f06b8df3f6ad8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8923621934255605674
+    second: main-hero-walking-assets_0
+  - first:
+      213: -3938141309089854325
+    second: main-hero-walking-assets_1
+  - first:
+      213: 3636616623863534259
+    second: main-hero-walking-assets_2
+  - first:
+      213: -5996905684008370398
+    second: main-hero-walking-assets_3
+  - first:
+      213: -5780449474612784184
+    second: main-hero-walking-assets_4
+  - first:
+      213: 4188224007435317653
+    second: main-hero-walking-assets_5
+  - first:
+      213: -589191407392964776
+    second: main-hero-walking-assets_6
+  - first:
+      213: -4239043186153637728
+    second: main-hero-walking-assets_7
+  - first:
+      213: -1488668785621944138
+    second: main-hero-walking-assets_8
+  - first:
+      213: -2829834980905184228
+    second: main-hero-walking-assets_9
+  - first:
+      213: 6209371120970634901
+    second: main-hero-walking-assets_10
+  - first:
+      213: 8505662493293201014
+    second: main-hero-walking-assets_11
+  - first:
+      213: 4649911557826729111
+    second: main-hero-walking-assets_12
+  - first:
+      213: -6971042147074137924
+    second: main-hero-walking-assets_13
+  - first:
+      213: 6682706888902382850
+    second: main-hero-walking-assets_14
+  - first:
+      213: -106149563767219015
+    second: main-hero-walking-assets_15
+  - first:
+      213: 5474547958528212700
+    second: main-hero-walking-assets_16
+  - first:
+      213: 4371136299779200711
+    second: main-hero-walking-assets_17
+  - first:
+      213: 4067548973655126776
+    second: main-hero-walking-assets_18
+  - first:
+      213: 9143696034033105118
+    second: main-hero-walking-assets_19
+  - first:
+      213: -6716233211833098060
+    second: main-hero-walking-assets_20
+  - first:
+      213: 8046378741604315792
+    second: main-hero-walking-assets_21
+  - first:
+      213: -2099354959743334123
+    second: main-hero-walking-assets_22
+  - first:
+      213: -4867951787022294081
+    second: main-hero-walking-assets_23
+  - first:
+      213: -6403510995026980636
+    second: main-hero-walking-assets_24
+  - first:
+      213: -2983329278140890161
+    second: main-hero-walking-assets_25
+  - first:
+      213: -7033520067772220669
+    second: main-hero-walking-assets_26
+  - first:
+      213: -2732043964484785967
+    second: main-hero-walking-assets_27
+  - first:
+      213: 1639721135248321445
+    second: main-hero-walking-assets_28
+  - first:
+      213: -4196826833410489979
+    second: main-hero-walking-assets_29
+  - first:
+      213: -7844758264609658561
+    second: main-hero-walking-assets_30
+  - first:
+      213: 5480256040042662571
+    second: main-hero-walking-assets_31
+  - first:
+      213: 2782211372094237373
+    second: main-hero-walking-assets_32
+  - first:
+      213: -2951285455441548467
+    second: main-hero-walking-assets_33
+  - first:
+      213: -2184123118618102878
+    second: main-hero-walking-assets_34
+  - first:
+      213: -3761844525204072101
+    second: main-hero-walking-assets_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: main-hero-walking-assets_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 206
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7803daed217db70800000000000000
+      internalID: 8923621934255605674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-hero-walking-assets_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 205
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c48643859e859c0800000000000000
+      internalID: -3938141309089854325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-hero-walking-up-left-1
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 204
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b29aa14d8bd77230800000000000000
+      internalID: 3636616623863534259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-hero-walking-assets_2
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 203
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ff829ad06b6cca0800000000000000
+      internalID: -5996905684008370398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-hero-walking-up-left-3
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 204
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c39c9734d7b7cfa0800000000000000
+      internalID: -5780449474612784184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-hero-walking-up-left-4
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 205
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591f1fa6b8f8f1a30800000000000000
+      internalID: 4188224007435317653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-hero-walking-assets_6
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 204
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f31a16985c2d7f0800000000000000
+      internalID: -589191407392964776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-hero-walking-assets_7
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 203
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8b5cd7ea4eb25c0800000000000000
+      internalID: -4239043186153637728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-hero-walking-assets_8
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 204
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8bac470af275be0800000000000000
+      internalID: -1488668785621944138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-hero-walking-assets_9
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 140
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c141c26f3186ab8d0800000000000000
+      internalID: -2829834980905184228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-hero-walking-assets_10
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 140
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5961608c22e1c2650800000000000000
+      internalID: 6209371120970634901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-hero-walking-assets_11
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 142
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676ca1409fe2a0670800000000000000
+      internalID: 8505662493293201014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-hero-walking-assets_12
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 141
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794de31fcedc78040800000000000000
+      internalID: 4649911557826729111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-hero-walking-assets_13
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 140
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0ae55f912e14f90800000000000000
+      internalID: -6971042147074137924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-hero-walking-assets_14
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 140
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205151b428ebdbc50800000000000000
+      internalID: 6682706888902382850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-hero-walking-assets_15
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 141
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc979eb881e68ef0800000000000000
+      internalID: -106149563767219015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-hero-walking-assets_16
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 140
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdef9e5ec5089fb40800000000000000
+      internalID: 5474547958528212700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-hero-walking-assets_17
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 140
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6972d2e4569ac30800000000000000
+      internalID: 4371136299779200711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-hero-walking-assets_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 76
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2f731ad36d27830800000000000000
+      internalID: 4067548973655126776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-hero-walking-assets_19
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 76
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8f0baf81fe4ee70800000000000000
+      internalID: 9143696034033105118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-hero-walking-assets_20
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 75
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0e10c5a752bc2a0800000000000000
+      internalID: -6716233211833098060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-hero-walking-assets_21
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 75
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092749d75da7aaf60800000000000000
+      internalID: 8046378741604315792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-hero-walking-assets_22
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 75
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5194b0779c79dd2e0800000000000000
+      internalID: -2099354959743334123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-hero-walking-assets_23
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 76
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3eec624af817cb0800000000000000
+      internalID: -4867951787022294081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-hero-walking-assets_24
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 75
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0db126da82227a0800000000000000
+      internalID: -6403510995026980636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-hero-walking-assets_25
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 75
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3c360f3d51996d0800000000000000
+      internalID: -2983329278140890161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-hero-walking-assets_26
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 75
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30bfad773cae36e90800000000000000
+      internalID: -7033520067772220669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-hero-walking-assets_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d862224d74d51ad0800000000000000
+      internalID: -2732043964484785967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-hero-walking-assets_28
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 12
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab2d255fa571c610800000000000000
+      internalID: 1639721135248321445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-hero-walking-assets_29
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 14
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5818db21b30e1c5c0800000000000000
+      internalID: -4196826833410489979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-hero-walking-assets_30
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 13
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39a121fbe1d12390800000000000000
+      internalID: -7844758264609658561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-hero-walking-assets_31
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 12
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa8ee035d7cd0c40800000000000000
+      internalID: 5480256040042662571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-hero-walking-assets_32
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 12
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbaaabb80866c9620800000000000000
+      internalID: 2782211372094237373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-hero-walking-assets_33
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 13
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b21adc38dea07d0800000000000000
+      internalID: -2951285455441548467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-hero-walking-assets_34
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 12
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3bc09789f60b1e0800000000000000
+      internalID: -2184123118618102878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-hero-walking-assets_35
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 12
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5996fed55e3bcbc0800000000000000
+      internalID: -3761844525204072101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: af711d9f830ad6344a164a4e243cb9d5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      main-hero-walking-assets_2: -5996905684008370398
+      main-hero-walking-up-left-1: 3636616623863534259
+      main-hero-walking-up-left-3: -5780449474612784184
+      main-hero-walking-up-left-4: 4188224007435317653
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
