@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      quick recoloring in aseprite guide gif_0: -8746911994517296943
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

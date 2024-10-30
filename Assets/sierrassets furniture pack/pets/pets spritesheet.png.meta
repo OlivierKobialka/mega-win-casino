@@ -709,7 +709,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      pets spritesheet_0: -8104194998668497942
+      pets spritesheet_1: 4333237494787340401
+      pets spritesheet_10: -4990038600164098482
+      pets spritesheet_11: -1939801743609544793
+      pets spritesheet_12: -7107022607793884432
+      pets spritesheet_13: 2579294348368319774
+      pets spritesheet_14: -8122227920123087494
+      pets spritesheet_15: -7082439189599058798
+      pets spritesheet_16: 6008750265982878693
+      pets spritesheet_17: -8335066059270016009
+      pets spritesheet_18: 6596345551973895571
+      pets spritesheet_19: 5503873298535242137
+      pets spritesheet_2: -4226371973369743371
+      pets spritesheet_20: -5884120167050018869
+      pets spritesheet_21: 137717767298337035
+      pets spritesheet_22: -7705581296401665536
+      pets spritesheet_23: -4326303778349351512
+      pets spritesheet_3: -4867645103089805949
+      pets spritesheet_4: 6731975491410895756
+      pets spritesheet_5: 5081710616583623223
+      pets spritesheet_6: -4499166451391095533
+      pets spritesheet_7: -6407502965050574673
+      pets spritesheet_8: -8901444377405330954
+      pets spritesheet_9: -6846222771940187692
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

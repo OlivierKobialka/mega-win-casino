@@ -709,7 +709,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      pets spritesheet grey outline_0: -2978871962631697699
+      pets spritesheet grey outline_1: -714141307010925945
+      pets spritesheet grey outline_10: 7593725953069217892
+      pets spritesheet grey outline_11: 1169618879310456986
+      pets spritesheet grey outline_12: -4601641325601168713
+      pets spritesheet grey outline_13: -8103109037892078112
+      pets spritesheet grey outline_14: 6354208324436433799
+      pets spritesheet grey outline_15: -8978201386151855150
+      pets spritesheet grey outline_16: 7231770527715684669
+      pets spritesheet grey outline_17: 4875795746139652205
+      pets spritesheet grey outline_18: 951149560390347289
+      pets spritesheet grey outline_19: 4040592589693468740
+      pets spritesheet grey outline_2: 15841243183080407
+      pets spritesheet grey outline_20: 1943428456620167739
+      pets spritesheet grey outline_21: -8656453207934334897
+      pets spritesheet grey outline_22: -2270411096434886569
+      pets spritesheet grey outline_23: 8680303881258666671
+      pets spritesheet grey outline_3: 171904601457602905
+      pets spritesheet grey outline_4: -7301418767805424448
+      pets spritesheet grey outline_5: -9118315631351712698
+      pets spritesheet grey outline_6: 1860960710532790067
+      pets spritesheet grey outline_7: 7778733151687718269
+      pets spritesheet grey outline_8: -4364450363796644430
+      pets spritesheet grey outline_9: -5795234654695440255
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
