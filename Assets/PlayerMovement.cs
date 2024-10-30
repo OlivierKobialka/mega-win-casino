@@ -5,16 +5,17 @@ using Vector2 = UnityEngine.Vector2;
 
 public class NewMonoBehaviourScript : MonoBehaviour
 {
-    public float moveSpeed;
+    public float moveSpeed = 5f;
     public Rigidbody2D rb;
     private Vector2 moveDirection;
     private Animator animator;
 
     void Start()
-    {   
+    {
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
     }
+
 
     // Update is called once per frame
     void Update()
