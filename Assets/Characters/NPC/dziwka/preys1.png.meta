@@ -1,0 +1,2517 @@
+fileFormatVersion: 2
+guid: 782162af3522e284fbb92f62b4b8c49d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8713356734983985495
+    second: preys1_0
+  - first:
+      213: -90888179013600016
+    second: preys1_1
+  - first:
+      213: 3216332658331128304
+    second: preys1_2
+  - first:
+      213: -6875511133832473358
+    second: preys1_3
+  - first:
+      213: 3920899131435142130
+    second: preys1_4
+  - first:
+      213: 4194224587894628664
+    second: preys1_5
+  - first:
+      213: -3232337466547744884
+    second: preys1_6
+  - first:
+      213: 2257473411294793941
+    second: preys1_7
+  - first:
+      213: -4840917461037004330
+    second: preys1_8
+  - first:
+      213: 1061392932414222616
+    second: preys1_9
+  - first:
+      213: -2886494172804917463
+    second: preys1_10
+  - first:
+      213: 420467613317846513
+    second: preys1_11
+  - first:
+      213: 272012710120744052
+    second: preys1_12
+  - first:
+      213: -8811795725244537718
+    second: preys1_13
+  - first:
+      213: 1059085978509989212
+    second: preys1_14
+  - first:
+      213: -400630934511428447
+    second: preys1_15
+  - first:
+      213: 1153699124549261967
+    second: preys1_16
+  - first:
+      213: 6167193441540414841
+    second: preys1_17
+  - first:
+      213: -8529070284206236678
+    second: preys1_18
+  - first:
+      213: -7687151575510436554
+    second: preys1_19
+  - first:
+      213: -6489623580872575334
+    second: preys1_20
+  - first:
+      213: -6161414582758784606
+    second: preys1_21
+  - first:
+      213: 702117682234886036
+    second: preys1_22
+  - first:
+      213: -6760488944192830094
+    second: preys1_23
+  - first:
+      213: -603469664771076888
+    second: preys1_24
+  - first:
+      213: 7805460834380407399
+    second: preys1_25
+  - first:
+      213: 204494548418664184
+    second: preys1_26
+  - first:
+      213: 3773153421534001795
+    second: preys1_27
+  - first:
+      213: -7623583962758460196
+    second: preys1_28
+  - first:
+      213: -4240670001105653800
+    second: preys1_29
+  - first:
+      213: -2922837765236616565
+    second: preys1_30
+  - first:
+      213: 2513930231864107270
+    second: preys1_31
+  - first:
+      213: -78295798558856724
+    second: preys1_32
+  - first:
+      213: -7035629690352038137
+    second: preys1_33
+  - first:
+      213: -9071601720717507877
+    second: preys1_34
+  - first:
+      213: -735297437148031030
+    second: preys1_35
+  - first:
+      213: 7532993506836823278
+    second: preys1_36
+  - first:
+      213: 8916351079482596946
+    second: preys1_37
+  - first:
+      213: -766792483473412714
+    second: preys1_38
+  - first:
+      213: -183735438531499592
+    second: preys1_39
+  - first:
+      213: 4171567749513869009
+    second: preys1_40
+  - first:
+      213: 4646950310225070638
+    second: preys1_41
+  - first:
+      213: 3699788868755466228
+    second: preys1_42
+  - first:
+      213: 2489942304733548427
+    second: preys1_43
+  - first:
+      213: -4355796038430985180
+    second: preys1_44
+  - first:
+      213: -2320084781866518793
+    second: preys1_45
+  - first:
+      213: -8718001085256415073
+    second: preys1_46
+  - first:
+      213: 5216610270191425831
+    second: preys1_47
+  - first:
+      213: 6895904901475901578
+    second: preys1_48
+  - first:
+      213: -5818245512617770659
+    second: preys1_49
+  - first:
+      213: -1756501197413634486
+    second: preys1_50
+  - first:
+      213: -4763312171331680178
+    second: preys1_51
+  - first:
+      213: 5062276638734401883
+    second: preys1_52
+  - first:
+      213: -5378043998152663997
+    second: preys1_53
+  - first:
+      213: -506931360958345849
+    second: preys1_54
+  - first:
+      213: -8145292079576687010
+    second: preys1_55
+  - first:
+      213: 3407335973196341457
+    second: preys1_56
+  - first:
+      213: 792653172494415015
+    second: preys1_57
+  - first:
+      213: 4557790830267582331
+    second: preys1_58
+  - first:
+      213: -997906738516889650
+    second: preys1_59
+  - first:
+      213: 4683886010297356907
+    second: preys1_60
+  - first:
+      213: 6317213015257456408
+    second: preys1_61
+  - first:
+      213: 5521436780725463633
+    second: preys1_62
+  - first:
+      213: 4712570981628619681
+    second: preys1_63
+  - first:
+      213: 19486126895230654
+    second: preys1_64
+  - first:
+      213: 3421912499225589317
+    second: preys1_65
+  - first:
+      213: -66909127157174356
+    second: preys1_66
+  - first:
+      213: 2807520231822438054
+    second: preys1_67
+  - first:
+      213: -8842130237664647246
+    second: preys1_68
+  - first:
+      213: 9143984540262946275
+    second: preys1_69
+  - first:
+      213: 5001072914976085335
+    second: preys1_70
+  - first:
+      213: -8936221972691972872
+    second: preys1_71
+  - first:
+      213: 3412688873898874306
+    second: preys1_72
+  - first:
+      213: -4851087771898178977
+    second: preys1_73
+  - first:
+      213: -5356868037582688559
+    second: preys1_74
+  - first:
+      213: -4639089583309208882
+    second: preys1_75
+  - first:
+      213: 5194276461110638011
+    second: preys1_76
+  - first:
+      213: -5183385665692722792
+    second: preys1_77
+  - first:
+      213: 5682193402808664353
+    second: preys1_78
+  - first:
+      213: -7717481654696904818
+    second: preys1_79
+  - first:
+      213: -1326475966025887384
+    second: preys1_80
+  - first:
+      213: 2965430270450556153
+    second: preys1_81
+  - first:
+      213: -2752328825230138496
+    second: preys1_82
+  - first:
+      213: -8587722905356310408
+    second: preys1_83
+  - first:
+      213: 739096193019876473
+    second: preys1_84
+  - first:
+      213: 9222642472336520053
+    second: preys1_85
+  - first:
+      213: 4649480674742359827
+    second: preys1_86
+  - first:
+      213: -5738589022737720894
+    second: preys1_87
+  - first:
+      213: 3828467302778638175
+    second: preys1_88
+  - first:
+      213: -5129482211090413818
+    second: preys1_89
+  - first:
+      213: -3599661291566186554
+    second: preys1_90
+  - first:
+      213: 1508373014637253697
+    second: preys1_91
+  - first:
+      213: 7374927053718571071
+    second: preys1_92
+  - first:
+      213: -6613118674086486684
+    second: preys1_93
+  - first:
+      213: 3330782286403908579
+    second: preys1_94
+  - first:
+      213: 9142651460430015697
+    second: preys1_95
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: preys1_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 643
+        width: 28
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7595afdf8cf0ce870800000000000000
+      internalID: 8713356734983985495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 644
+        width: 31
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fcbc97cea91dbef0800000000000000
+      internalID: -90888179013600016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 643
+        width: 28
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1905b0385b2ac20800000000000000
+      internalID: 3216332658331128304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 643
+        width: 28
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f41ca24d074590a0800000000000000
+      internalID: -6875511133832473358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 644
+        width: 31
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb44597cf4d96630800000000000000
+      internalID: 3920899131435142130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_5
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 643
+        width: 28
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8312bad6a01e43a30800000000000000
+      internalID: 4194224587894628664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_6
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 643
+        width: 28
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f4c38233e6423d0800000000000000
+      internalID: -3232337466547744884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_7
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 644
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d09d126b18245f10800000000000000
+      internalID: 2257473411294793941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_8
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 643
+        width: 28
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d947eba73b91dcb0800000000000000
+      internalID: -4840917461037004330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_9
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 643
+        width: 28
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811f8af9f33dabe00800000000000000
+      internalID: 1061392932414222616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_10
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 644
+        width: 31
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9275ab7d7dc11f7d0800000000000000
+      internalID: -2886494172804917463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_11
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 643
+        width: 28
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5dd5b011dc5d500800000000000000
+      internalID: 420467613317846513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 552
+        width: 30
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47463216e1266c300800000000000000
+      internalID: 272012710120744052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_13
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 552
+        width: 26
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a846e7b897636b580800000000000000
+      internalID: -8811795725244537718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_14
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 552
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c555faf0611a2be00800000000000000
+      internalID: 1059085978509989212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_15
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 552
+        width: 30
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1acd966a94ca07af0800000000000000
+      internalID: -400630934511428447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_16
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 552
+        width: 27
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a1070cd33c20010800000000000000
+      internalID: 1153699124549261967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_17
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 552
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d922882c5469550800000000000000
+      internalID: 6167193441540414841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_18
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 552
+        width: 30
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb1c85f3c7a2a980800000000000000
+      internalID: -8529070284206236678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_19
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 552
+        width: 26
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635bd1fce50c15590800000000000000
+      internalID: -7687151575510436554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_20
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 552
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9677189cb930f5a0800000000000000
+      internalID: -6489623580872575334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_21
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 552
+        width: 30
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a140c0e4124e7aa0800000000000000
+      internalID: -6161414582758784606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_22
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 552
+        width: 28
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4978120ef4c6eb900800000000000000
+      internalID: 702117682234886036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_23
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 552
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2754e65bf1bed22a0800000000000000
+      internalID: -6760488944192830094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_24
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 460
+        width: 30
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec8896898b00a7f0800000000000000
+      internalID: -603469664771076888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_25
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 460
+        width: 26
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762e7751641925c60800000000000000
+      internalID: 7805460834380407399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_26
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 460
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f69ff455b286d200800000000000000
+      internalID: 204494548418664184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_27
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 460
+        width: 30
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a759dbb0fec5430800000000000000
+      internalID: 3773153421534001795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_28
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 460
+        width: 27
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdcca6007c6933690800000000000000
+      internalID: -7623583962758460196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_29
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 460
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df217e1a1d1625c0800000000000000
+      internalID: -4240670001105653800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_30
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 460
+        width: 30
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8299f2d98eff67d0800000000000000
+      internalID: -2922837765236616565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_31
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 460
+        width: 26
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601206cf93643e220800000000000000
+      internalID: 2513930231864107270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_32
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 460
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce96e73d266d9eef0800000000000000
+      internalID: -78295798558856724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_33
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 460
+        width: 30
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f006fa21c6c5e90800000000000000
+      internalID: -7035629690352038137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_34
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 460
+        width: 28
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd28fc46c423b1280800000000000000
+      internalID: -9071601720717507877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_35
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 460
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7598e60e2bbc5f0800000000000000
+      internalID: -735297437148031030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_36
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 367
+        width: 29
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec3556dea19a8860800000000000000
+      internalID: 7532993506836823278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_37
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 368
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e1b31e01e3dbb70800000000000000
+      internalID: 8916351079482596946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_38
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 367
+        width: 29
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69da0268c4ecb55f0800000000000000
+      internalID: -766792483473412714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_39
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 367
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9eda5979d337df0800000000000000
+      internalID: -183735438531499592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_40
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 368
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6ff3a24c264e930800000000000000
+      internalID: 4171567749513869009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_41
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 367
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a4bd1cfa84d7040800000000000000
+      internalID: 4646950310225070638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_42
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 367
+        width: 29
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f72d12bf5a485330800000000000000
+      internalID: 3699788868755466228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_43
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 368
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f4cd8755d0e8220800000000000000
+      internalID: 2489942304733548427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_44
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 367
+        width: 29
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424744fb49a1d83c0800000000000000
+      internalID: -4355796038430985180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_45
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 367
+        width: 29
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f67e08ee276dcfd0800000000000000
+      internalID: -2320084781866518793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_46
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 368
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9842d1f330730780800000000000000
+      internalID: -8718001085256415073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_47
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 367
+        width: 29
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7291a66e66f156840800000000000000
+      internalID: 5216610270191425831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_48
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 275
+        width: 28
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80a859c8fc23bf50800000000000000
+      internalID: 6895904901475901578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_49
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 276
+        width: 31
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51486c5880714fa0800000000000000
+      internalID: -5818245512617770659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_50
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 275
+        width: 28
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4eac90a777af97e0800000000000000
+      internalID: -1756501197413634486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_51
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 276
+        width: 28
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e480b7931d055edb0800000000000000
+      internalID: -4763312171331680178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_52
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 277
+        width: 30
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51c58628c1d04640800000000000000
+      internalID: 5062276638734401883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_53
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 276
+        width: 28
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c50bf4a795d55b0800000000000000
+      internalID: -5378043998152663997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_54
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 276
+        width: 28
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d8290fc9407f8f0800000000000000
+      internalID: -506931360958345849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_55
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 277
+        width: 30
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e570d520c16fe80800000000000000
+      internalID: -8145292079576687010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_56
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 276
+        width: 28
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d027c8c30a494f20800000000000000
+      internalID: 3407335973196341457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_57
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 276
+        width: 28
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4bd985cd1100b00800000000000000
+      internalID: 792653172494415015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_58
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 277
+        width: 30
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77c1a6ac96804f30800000000000000
+      internalID: 4557790830267582331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_59
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 276
+        width: 28
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf6bb3cb19b622f0800000000000000
+      internalID: -997906738516889650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_60
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 184
+        width: 31
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6212349281800140800000000000000
+      internalID: 4683886010297356907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_61
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 184
+        width: 29
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f15e074cf3ba750800000000000000
+      internalID: 6317213015257456408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_62
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 184
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15aeaec8f7510ac40800000000000000
+      internalID: 5521436780725463633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_63
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 185
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aba9cae65a666140800000000000000
+      internalID: 4712570981628619681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_64
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 185
+        width: 26
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe63a7778a354000800000000000000
+      internalID: 19486126895230654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_65
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 185
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5467fc8b9431d7f20800000000000000
+      internalID: 3421912499225589317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_66
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 185
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cafa09bd08a421ff0800000000000000
+      internalID: -66909127157174356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_67
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 185
+        width: 26
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aeaf75a6c056f620800000000000000
+      internalID: 2807520231822438054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_68
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 185
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7224e75617a4580800000000000000
+      internalID: -8842130237664647246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_69
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 185
+        width: 28
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e559021e75f5ee70800000000000000
+      internalID: 9143984540262946275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_70
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 185
+        width: 26
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7551af0c151676540800000000000000
+      internalID: 5001072914976085335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_71
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 185
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc87a346792cf380800000000000000
+      internalID: -8936221972691972872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_72
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 92
+        width: 31
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c59ba9137e4c5f20800000000000000
+      internalID: 3412688873898874306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_73
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 92
+        width: 29
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5294c5af597dacb0800000000000000
+      internalID: -4851087771898178977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_74
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 92
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de6d37d6e498a5b0800000000000000
+      internalID: -5356868037582688559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_75
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 93
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2c3a95a94ae9fb0800000000000000
+      internalID: -4639089583309208882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_76
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 93
+        width: 26
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb53ca1cbe6c51840800000000000000
+      internalID: 5194276461110638011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_77
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 93
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8999886233ae018b0800000000000000
+      internalID: -5183385665692722792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_78
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 93
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1218a775bc43bde40800000000000000
+      internalID: 5682193402808664353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_79
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 93
+        width: 26
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e877233f25ff5e490800000000000000
+      internalID: -7717481654696904818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_80
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 93
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8611fe90329679de0800000000000000
+      internalID: -1326475966025887384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_81
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 93
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc55649e13572920800000000000000
+      internalID: 2965430270450556153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_82
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 93
+        width: 26
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083e6131483cdc9d0800000000000000
+      internalID: -2752328825230138496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_83
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 93
+        width: 28
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87860cc648742d880800000000000000
+      internalID: -8587722905356310408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_84
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9741bc7521cc14a00800000000000000
+      internalID: 739096193019876473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_85
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 31
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5737c0607786dff70800000000000000
+      internalID: 9222642472336520053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_86
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 0
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317df082a06468040800000000000000
+      internalID: 4649480674742359827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_87
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 30
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c913cb20bf6c50b0800000000000000
+      internalID: -5738589022737720894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_88
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f81505ab2712530800000000000000
+      internalID: 3828467302778638175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_89
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 0
+        width: 30
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607454e2b1b60d8b0800000000000000
+      internalID: -5129482211090413818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_90
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 0
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf397c802f6b0ec0800000000000000
+      internalID: -3599661291566186554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_91
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1441d3ed341dee410800000000000000
+      internalID: 1508373014637253697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_92
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 0
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f384051d411095660800000000000000
+      internalID: 7374927053718571071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_93
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 0
+        width: 30
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d929d8a9b7934a0800000000000000
+      internalID: -6613118674086486684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_94
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1
+        width: 31
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3b44d97d0593e20800000000000000
+      internalID: 3330782286403908579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preys1_95
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 0
+        width: 30
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc232c301931ee70800000000000000
+      internalID: 9142651460430015697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
