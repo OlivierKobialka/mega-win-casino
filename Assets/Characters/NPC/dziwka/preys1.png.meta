@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 4b45f13da60591b42ab25e1a2dc1fc84
+=======
+guid: 782162af3522e284fbb92f62b4b8c49d
+>>>>>>> 242a064b158db4f3702bda1dd09db32100d22f2f
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -2509,6 +2513,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
+<<<<<<< HEAD
     nameFileIdTable:
       preys1_0: 8713356734983985495
       preys1_1: -90888179013600016
@@ -2606,6 +2611,9 @@ TextureImporter:
       preys1_93: -6613118674086486684
       preys1_94: 3330782286403908579
       preys1_95: 9142651460430015697
+=======
+    nameFileIdTable: {}
+>>>>>>> 242a064b158db4f3702bda1dd09db32100d22f2f
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: fe6f1ca36fa5541468b4b9ec4ee1d956
+=======
+guid: 88fd9930e5c2c1c41ac0102e8ac3ec28
+>>>>>>> 242a064b158db4f3702bda1dd09db32100d22f2f
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -2684,6 +2688,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
+<<<<<<< HEAD
     nameFileIdTable:
       devils1_0: 4891401764907294
       devils1_1: -7602179020642873247
@@ -2788,6 +2793,9 @@ TextureImporter:
       devils1_97: -6456246281631470709
       devils1_98: 4080890805953815906
       devils1_99: -1708976264490064171
+=======
+    nameFileIdTable: {}
+>>>>>>> 242a064b158db4f3702bda1dd09db32100d22f2f
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

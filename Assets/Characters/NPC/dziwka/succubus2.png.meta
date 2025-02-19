@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 40ae1b1937c1a5748ac264c97618efd9
+=======
+guid: 03f35b61d6b4c9843854d1b5480a85f1
+>>>>>>> 242a064b158db4f3702bda1dd09db32100d22f2f
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -2509,6 +2513,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
+<<<<<<< HEAD
     nameFileIdTable:
       succubus2_0: 7022787327023352668
       succubus2_1: 4945502529337537954
@@ -2606,6 +2611,9 @@ TextureImporter:
       succubus2_93: -6243109917030111758
       succubus2_94: -4522493035426442913
       succubus2_95: 3109128447850073885
+=======
+    nameFileIdTable: {}
+>>>>>>> 242a064b158db4f3702bda1dd09db32100d22f2f
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
