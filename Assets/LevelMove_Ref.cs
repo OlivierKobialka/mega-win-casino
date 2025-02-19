@@ -1,25 +1,59 @@
 using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class LevelMove_Ref : MonoBehaviour
 {
-    public int sceneBuildIndex;
+    public int sceneBuildIndex;        // Index of the scene to load
+    public GameObject loadingScreen;  // Reference to the loading screen GameObject
+    public UnityEngine.UI.Slider progressBar; // Reference to the progress bar (Slider)
 
-    // Level move zoned enter, if collider is a player
-    // Move game to another scene
     private void OnTriggerEnter2D(Collider2D other)
     {
         print("Trigger Entered");
 
-        // Could use other.GetComponent<Player>() to see if the game object has a Player component
-        // Tags work too. Maybe some players have different script components?
-        if (other.tag == "Player")
+        // Check if the colliding object is the player
+        if (other.CompareTag("Player"))
         {
-            // Player entered, so move level
+            // Start loading the next scene
             print("Switching Scene to " + sceneBuildIndex);
-            SceneManager.LoadScene(sceneBuildIndex, LoadSceneMode.Single);
+            StartCoroutine(LoadSceneWithLoadingScreen(sceneBuildIndex));
+        }
+    }
+
+    private IEnumerator LoadSceneWithLoadingScreen(int sceneIndex)
+    {
+        // Activate the loading screen
+        if (loadingScreen != null)
+        {
+            loadingScreen.SetActive(true);
+        }
+
+        // Begin loading the scene asynchronously
+        AsyncOperation operation = SceneManager.LoadSceneAsync(sceneIndex);
+
+        // Prevent the scene from activating immediately
+        operation.allowSceneActivation = false;
+
+        // Update progress
+        while (!operation.isDone)
+        {
+            float progress = Mathf.Clamp01(operation.progress / 0.9f);
+
+            // Update progress bar if available
+            if (progressBar != null)
+            {
+                progressBar.value = progress;
+            }
+
+            // Check if the scene is fully loaded
+            if (operation.progress >= 0.9f)
+            {
+                // Allow activation once the loading is complete
+                operation.allowSceneActivation = true;
+            }
+
+            yield return null; // Wait for the next frame
         }
     }
 }

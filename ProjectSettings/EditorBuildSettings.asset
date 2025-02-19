@@ -11,6 +11,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Casino.unity
     guid: 331b8f85621e0b74795ddee8b6c5395f
+  - enabled: 0
+    path: Assets/Scenes/Map 3.unity
+    guid: 6eb7323d8becb8147ba3c577878d893e
+  - enabled: 1
+    path: Assets/Scenes/Map 1.unity
+    guid: 2ff1c9bffa1dcc44c84f45ab0e64408e
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
