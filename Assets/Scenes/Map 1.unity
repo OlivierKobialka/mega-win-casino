@@ -12797,7 +12797,7 @@ Camera:
   m_NormalizedViewPortRect:
     serializedVersion: 2
     x: -0.30234376
-    y: -0.42916664
+    y: -0.41805553
     width: 1
     height: 1
   near clip plane: 0.3
@@ -13921,7 +13921,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd46df84de70b5d418fb5268bdafa7c6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneBuildIndex: 1
+  sceneBuildIndex: 2
+  loadingScreen: {fileID: 0}
+  progressBar: {fileID: 0}
 --- !u!1 &904370373
 GameObject:
   m_ObjectHideFlags: 0
